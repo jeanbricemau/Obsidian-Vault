@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "html"
             }
+          },
+          {
+            "id": "be6b143185e0a764",
+            "type": "leaf",
+            "state": {
+              "type": "conflicts-resolution-view",
+              "state": {},
+              "icon": "merge",
+              "title": "Conflicts resolution"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "github-gitless-sync:Sync with GitHub": false
     }
   },
-  "active": "976af64d0879d01b",
+  "active": "be6b143185e0a764",
   "lastOpenFiles": [
     "html.md",
     "fondamenteaux.md",

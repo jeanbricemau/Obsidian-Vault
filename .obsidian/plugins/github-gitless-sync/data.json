@@ -13,5 +13,5 @@
   "showStatusBarItem": true,
   "showSyncRibbonButton": true,
   "showConflictsRibbonButton": true,
-  "enableLogging": false
+  "enableLogging": true
 }
