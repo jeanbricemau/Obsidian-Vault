@@ -1,5 +1,8 @@
 {
-  "accentColor": "#224273",
+  "accentColor": "",
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "JetBrains Mono"
+  "interfaceFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }
