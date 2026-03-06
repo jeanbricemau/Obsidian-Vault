@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Créer et exécuter des scripts.md",
+                "file": "root/Linux - Créer et exécuter des scripts.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash.md",
+                "file": "root/bash.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash.md",
+                "file": "root/bash.md",
                 "mode": "source",
                 "source": false
               },
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Créer et exécuter des scripts.md",
+                "file": "root/Linux - Créer et exécuter des scripts.md",
                 "mode": "source",
                 "source": false
               },
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b57b962b00317709",
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - Créer et exécuter des scripts.md",
+                "file": "root/Linux - Créer et exécuter des scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,11 +255,11 @@
       "github-gitless-sync:Sync with GitHub": false
     }
   },
-  "active": "865101d339be3539",
+  "active": "93745dba912cfba1",
   "lastOpenFiles": [
     "root/linux.md",
-    "Linux - Créer et exécuter des scripts.md",
-    "bash.md",
+    "root/Linux - Créer et exécuter des scripts.md",
+    "root/bash.md",
     "root/fondamenteaux.md",
     "root/front.md",
     "root/html.md",
