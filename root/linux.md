@@ -1,1 +1,1 @@
-[[bash]] [[git]] [[dwm]] 
+[[bash]] [[git]] [[dwm]] # 
